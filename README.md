@@ -20,3 +20,10 @@ N/A
 
 3. Dashboard Capture
 ![Dashboard Page](/CaptureScreen/DashboardCapture.PNG)
+
+## Webiste Link
+https://assi14-tech-forum.herokuapp.com/
+
+## GitHub Repository Link
+https://github.com/timo9939/Assignment14-Tech-Blog
+
