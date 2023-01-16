@@ -10,3 +10,13 @@ This is Technology Blog. People can share their opinion and IT informatio. They 
 
 ## License
 N/A
+
+## Screen Capture
+1. Home Page Capture
+![Home Page](/CaptureScreen/HomeCapture.PNG)
+
+2. Login Page Capture
+![Login Page](/CaptureScreen/LoginCapture.PNG)
+
+3. Dashboard Capture
+![Dashboard Page](/CaptureScreen/DashboardCapture.PNG)
